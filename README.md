@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Curso Dio | Git e GitHub
 
